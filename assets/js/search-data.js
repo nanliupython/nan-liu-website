@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/nan-liu.com/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nan-liu.com/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "Author names matching Liu, N. are highlighted in bold.",
           section: "Navigation",
@@ -50,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/nan-liu.com/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nan-liu.com/teaching/";
           },
         },{id: "nav-people",
           title: "people",
