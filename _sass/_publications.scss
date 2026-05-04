@@ -195,14 +195,13 @@
   border-bottom: none !important;
   border: none !important;
 }
-// Publication number column — fixed-width, right-aligned, top-aligned
 .publications .pubnum-col {
-  min-width: 2.8em;
-  padding-right: 0;
+  flex: 0 0 auto;
+  width: auto;
+  min-width: 0;
+  padding-right: 0.5em;
   padding-left: 0;
   padding-top: 0.1em;
-  text-align: left;
-  flex: 0 0 auto;
 }
 
 .publications .pubnum {
