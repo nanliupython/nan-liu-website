@@ -196,12 +196,22 @@
   border: none !important;
 }
 .publications .pubnum-col {
-  flex: 0 0 auto;
-  width: auto;
-  min-width: 0;
-  padding-right: 0.5em;
-  padding-left: 0;
+  flex: 0 0 auto !important;
+  width: auto !important;
+  min-width: 0 !important;
+  max-width: 4em;
+  padding-left: 0 !important;
+  padding-right: 0.5em !important;
   padding-top: 0.1em;
+  margin-right: 0 !important;
+}
+
+.publications .row {
+  margin-left: 0 !important;
+}
+
+.publications .row > .col {
+  padding-left: 0.5em !important;
 }
 
 .publications .pubnum {
