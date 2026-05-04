@@ -1,9 +1,6 @@
 ---
 ---
 <div class="row">
-{% if entry.pubnum %}
-<span class="pubnum" style="font-weight: 600; color: #999; margin-right: 0.5em;">[{{ entry.pubnum }}]</span>
-{% endif %}
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -52,7 +49,7 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">
-  {% if entry.doi %}
+  {% if entry.pubnum %}<span class="pubnum">[{{ entry.pubnum }}]</span> {% endif %}{% if entry.doi %}
     <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
   {% elsif entry.url %}
     <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
@@ -63,10 +60,25 @@
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
-
       {% assign author_array_limit = author_array_size %}
+
+      {%- comment -%} Custom: for long author lists, truncate at self's position {%- endcomment -%}
       {% if site.max_author_limit and author_array_size > site.max_author_limit %}
-        {% assign author_array_limit = site.max_author_limit %}
+        {% assign self_position = 0 %}
+        {% for a in entry.author_array %}
+          {% assign a_last_clean = a.last | regex_replace: '[*∗†‡§¶‖&^]', '' %}
+          {% if site.scholar.last_name contains a_last_clean %}
+            {% if site.scholar.first_name contains a.first %}
+              {% assign self_position = forloop.index %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% if self_position > 0 %}
+          {% assign author_array_limit = self_position %}
+        {% else %}
+          {% assign author_array_limit = site.max_author_limit %}
+        {% endif %}
       {% endif %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
