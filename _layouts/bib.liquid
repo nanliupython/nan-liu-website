@@ -1,6 +1,9 @@
 ---
 ---
 <div class="row">
+{% if entry.pubnum %}
+<span class="pubnum" style="font-weight: 600; color: #999; margin-right: 0.5em;">[{{ entry.pubnum }}]</span>
+{% endif %}
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -48,7 +51,15 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+  {% elsif entry.url %}
+    <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
+  {% else %}
+    {{ entry.title }}
+  {% endif %}
+</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
