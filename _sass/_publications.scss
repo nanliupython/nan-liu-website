@@ -186,3 +186,9 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+// Bold the author's own name in bibliography
+// (overrides al-folio's default italic emphasis)
+.publications em {
+  font-style: normal;
+  font-weight: bold;
+}
