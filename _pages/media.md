@@ -7,9 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-<div class="media-coverage">
+<div class="media-coverage" markdown="1">
 
-<h1 style="text-align: center; font-weight: 700; font-size: 2.5rem; margin-top: 1em; margin-bottom: 1em;">Media coverage</h1>
+# Media coverage
+{: style="text-align: center; font-weight: 700; font-size: 2.5rem; margin-top: 1em; margin-bottom: 1em;"}
 
 ## 2026
 
