@@ -195,8 +195,15 @@
   border-bottom: none !important;
   border: none !important;
 }
-.publications .title .pubnum {
+// Publication number column — fixed-width, right-aligned, top-aligned
+.publications .pubnum-col {
+  min-width: 3.5em;
+  padding-right: 0.5em;
+  padding-top: 0.1em;
+  text-align: right;
+}
+
+.publications .pubnum {
   color: var(--global-text-color);
   font-weight: normal;
-  margin-right: 0.4em;
 }

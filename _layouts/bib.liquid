@@ -1,6 +1,9 @@
 ---
 ---
 <div class="row">
+  {% if entry.pubnum %}
+    <div class="col-auto pubnum-col"><span class="pubnum">[{{ entry.pubnum }}]</span></div>
+  {% endif %}
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -46,10 +49,10 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{ entry.key }}" class="col">
     <!-- Title -->
     <div class="title">
-  {% if entry.pubnum %}<span class="pubnum">[{{ entry.pubnum }}]</span> {% endif %}{% if entry.doi %}
+  {% if entry.doi %}
     <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
   {% elsif entry.url %}
     <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">{{ entry.title }}</a>
