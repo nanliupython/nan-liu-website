@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nan-liu.com/publications/";
           },
+        },{id: "nav-media",
+          title: "media",
+          description: "News articles, interviews, and press coverage of my research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nan-liu.com/media/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
