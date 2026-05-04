@@ -34,4 +34,4 @@ My research connects microscopic measurements to nuclear astrophysics. **Presola
 
 I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014. Before joining BU in 2023, I was a Research Assistant Professor of Physics at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie's Earth & Planets Laboratory (2014–2017).
 
-In 2021, I received the Meteoritical Society's [**Nier Prize**](https://meteoritical.org/awards/nier) for outstanding research in meteoritics and allied fields by a young scientist.oo. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2021, I received the Meteoritical Society's [**Nier Prize**](https://meteoritical.org/awards/nier) for outstanding research in meteoritics and allied fields by a young scientist.
