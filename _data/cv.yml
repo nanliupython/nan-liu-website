@@ -25,27 +25,29 @@ basics:
 
 
 work:
-  - name: Institute for Advanced Study
-    position: Visitor
-    location: Princeton, NJ
-    url: https://www.ias.edu
-    startDate: "2026-01"
-    endDate: "2026-07"
-    summary: Spring 2026 visit at the School of Natural Sciences.
+
 
   - name: Boston University
     position: Senior Research Scientist
     location: Boston, MA
     url: https://www.bu.edu/iar/
     startDate: "2023-01"
-    summary: Institute for Astrophysical Research.
+    summary: Institute for Astrophysical Research
+
+  - name: Institute for Advanced Study
+    position: Visitor
+    location: Princeton, NJ
+    url: https://www.ias.edu
+    startDate: "2026-01"
+    endDate: "2026-07"
+    summary: Spring 2026 visit at the School of Natural Sciences
 
   - name: Carnegie Institution for Science
     position: Visiting Investigator
     location: Washington, D.C.
     url: https://epl.carnegiescience.edu
     startDate: "2018-01"
-    summary: Earth & Planets Laboratory.
+    summary: Earth & Planets Laboratory
 
   - name: Washington University in St. Louis
     position: Research Assistant Professor of Physics
