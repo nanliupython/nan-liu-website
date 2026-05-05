@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: cv
-description:
 nav: true
 nav_order: 5
-redirect: /assets/pdf/cv.pdf
-target: _blank
+cv_pdf: cv.pdf
+description: Last updated May 2026
+toc:
+  sidebar: left
 ---

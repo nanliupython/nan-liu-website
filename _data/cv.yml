@@ -1,189 +1,105 @@
-cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nan Liu
+    - name: Position
+      value: Senior Research Scientist
+    - name: Affiliation
+      value: Institute for Astrophysical Research, Boston University
+    - name: Address
+      value: 725 Commonwealth Avenue, Boston, MA 02215
+    - name: Email
+      value: nanliu@bu.edu
+    - name: Languages
+      value: English, Mandarin
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Cosmochemistry
+      institution: The University of Chicago, Chicago, IL
+      year: 2014
+    - title: B.E. in Environmental Science
+      institution: University of Science and Technology of China
+      year: 2009
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+- title: Experience
+  type: time_table
+  contents:
+    - title: Visitor
+      institution: Institute for Advanced Study, Princeton, NJ
+      year: 01/2026 – 07/2026
+    - title: Senior Research Scientist
+      institution: Institute for Astrophysical Research, Boston University
+      year: 2023 – present
+    - title: Visiting Investigator
+      institution: Earth & Planets Laboratory, Carnegie Institution for Science
+      year: 2018 – present
+    - title: Research Assistant Professor of Physics
+      institution: Washington University in St. Louis
+      year: 2018 – 2022
+    - title: Postdoctoral Associate
+      institution: Department of Terrestrial Magnetism, Carnegie Institution for Science
+      year: 2014 – 2017
 
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+- title: Awards and Honors
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - "<strong>Nier Prize</strong>, Meteoritical Society — for outstanding research in meteoritics and closely allied fields by an early-career scientist"
+    - year: 2019
+      items:
+        - JINA-CEE Travel Award to the p-Process Workshop
+    - year: 2017
+      items:
+        - Travel Award to the Meteoritical Society Meeting
+    - year: 2016
+      items:
+        - JINA-CEE Travel Award to the Torino Workshop
+        - Travel Award to the Meteoritical Society Meeting
+    - year: 2012
+      items:
+        - Travel Award to the Meteoritical Society Meeting
+    - year: 2011 – 2014
+      items:
+        - NASA Earth and Space Science Fellowship
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+- title: Community Service
+  type: list
+  contents:
+    - Reviewer for <em>ApJ</em>, <em>GCA</em>, <em>Science</em>, <em>MAPS</em>, <em>Nature</em>, NASA, and DOE programs
+    - Guest Editor for the Topic Collection "From Stars to Nuclei&#58; Honoring the Legacy of Roberto Gallino" in <em>The European Physical Journal A</em>
+    - Committee Member for the Astrophysics with Radioactive Isotopes 2026 conference (Traverse City, MI)
+    - Member of Scientific Committee for the s, i &amp; r Element Nucleosynthesis (sirEN) Conference, Giulianova, Italy (2025)
+    - Member of Scientific Committee for the Russbach School on Nuclear Astrophysics (2024, 2025)
+    - Member of Scientific Organizing Committee for the Meteoritical Society Meeting (2021)
+    - Chair of Presolar Grains Session, Lunar and Planetary Science Conference (2019, 2022, 2023, 2024, 2025, 2026)
+    - Chair of Presolar Grains Session, Meteoritical Society Meeting (2015, 2017, 2021, 2023, 2025)
+    - Chair of Calcium-Aluminum-rich Inclusions Session, Lunar and Planetary Science Conference (2021)
+    - Convener of Protoplanetary Disk Evolution Session, Goldschmidt Conference (2020)
+    - Judge for the Dwornik Student Award, LPSC (2016, 2017, 2018, 2019, 2022, 2024, 2025)
+    - Judge for the McKay Student Award, Meteoritical Society Meeting (2015, 2017, 2018, 2023, 2024, 2025)
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Cosmochemistry of presolar grains
+      items:
+        - High-precision NanoSIMS isotope measurements (Si, Ca, Ti, Ni)
+        - Coordinated micro-Raman, TEM, and resonance ionization mass spectrometry
+    - title: Stellar nucleosynthesis
+      items:
+        - Core-collapse Type II supernovae
+        - Asymptotic giant branch (AGB) stars
+        - Type Ia supernovae and Galactic chemical evolution
+    - title: Solar system origin and evolution
+      items:
+        - Stochastic stellar pollution in the early solar system
+        - Formation timing of presolar dust grains
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+- title: Other Interests
+  type: list
+  contents:
+    - <strong>Hobbies:</strong> Hiking, photography
