@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: Author names matching <strong>Liu, N.</strong> are highlighted in bold.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- Bibsearch Feature -->
