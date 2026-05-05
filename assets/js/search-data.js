@@ -724,7 +724,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/nan-liu.com/cv.pdf", "_blank");
+          window.open("/nan-liu.com/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
