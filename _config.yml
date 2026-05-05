@@ -7,7 +7,6 @@ first_name: Nan
 middle_name:
 last_name: Liu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Senior Research Scientist at Boston University. Cosmochemist specialized in nuclear astrophysics.
 footer_text: >

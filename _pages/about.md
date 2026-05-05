@@ -14,7 +14,7 @@ profile:
     <p>725 Commonwealth Ave</p>
     <p>Boston, MA 02215</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
