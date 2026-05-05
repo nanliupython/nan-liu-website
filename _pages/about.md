@@ -28,9 +28,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University, and a Visiting Investigator at the [Carnegie Institution for Science](https://epl.carnegiescience.edu/)'s Earth & Planets Laboratory. From January to July 2026, I am also a Visitor at the [Institute for Advanced Study](https://www.ias.edu/) in Princeton.
+I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University.
 
-My research uses high-precision isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017). I received the Meteoritical Society's [Nier Prize](https://onlinelibrary.wiley.com/doi/10.1111/maps.14237) in 2021.
+My research uses high-precision isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
 
 <div style="clear: both;"></div>
 
