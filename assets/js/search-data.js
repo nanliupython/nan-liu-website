@@ -734,13 +734,6 @@ ninja.data = [{
           window.open("mailto:%6E%61%6E%6C%69%75@%62%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/nan-liu.com/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -752,7 +745,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0001-7644-7341", "_blank");
+          window.open("https://orcid.org/0000-0002-4456-4065", "_blank");
         },
       },{
         id: 'social-ResearchGate',
