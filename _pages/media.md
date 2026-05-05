@@ -40,6 +40,6 @@ nav_order: 3
 
 ## 2017
 
-- **Carnegie Earth & Planets Laboratory**, 2017 — [*Postdoc Spotlight: Cosmochemist Nan Liu*](https://epl.carnegiescience.edu/news/postdoc-spotlight-cosmochemist-nan-liu) — Q&A profile during my postdoctoral years at Carnegie's Department of Terrestrial Magnetism.
+- **Carnegie Earth & Planets Laboratory**, 2017 — [*Postdoc Spotlight: Cosmochemist Nan Liu*](https://web.archive.org/web/20210417143321/https://epl.carnegiescience.edu/news/postdoc-spotlight-cosmochemist-nan-liu) — Q&A profile during my postdoctoral years at Carnegie's Department of Terrestrial Magnetism.
 
 </div>
