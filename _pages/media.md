@@ -25,7 +25,6 @@ nav_order: 3
 - **WashU Source**, October 2021 — [*Stellar fossils in meteorites point to distant stars*](https://source.washu.edu/2021/10/stellar-fossils-in-meteorites-point-to-distant-stars/) — Coverage of [*ApJL* paper](https://doi.org/10.3847/2041-8213/ac260b) on multielement isotopic compositions of presolar SiC grains.
 - **Universe Today**, 2021 — [*Meteorites found with little pieces of other stars*](https://www.universetoday.com/articles/meteorites-found-with-little-pieces-of-other-stars) — Follow-up coverage of the [same paper](https://doi.org/10.3847/2041-8213/ac260b).
 - **Sci.News**, October 2021 — [*Researchers measure isotopic ratios in presolar stardust grains*](https://www.sci.news/space/isotopic-ratios-presolar-stardust-grains-10159.html) — Additional coverage of the same [*ApJL* paper](https://doi.org/10.3847/2041-8213/ac260b).
-- **WashU Source**, July 2021 — [*Sculpted by starlight: A meteorite witness to the Solar System's birth*](https://source.washu.edu/2021/07/sculpted-by-starlight-a-meteorite-witness-to-the-solar-systems-birth/) — Coverage of [L. Vacher *et al.* paper](https://doi.org/10.1016/j.gca.2021.06.026) on cosmic symplectite as a record of irradiation by nearby massive stars.
 - **ScienceDaily**, July 2021 — [*Sculpted by starlight: A meteorite witness to the Solar System's birth*](https://www.sciencedaily.com/releases/2021/07/210706115405.htm) — Republished from WashU Source; same [Vacher *et al.* paper](https://doi.org/10.1016/j.gca.2021.06.026).
 
 ## 2020
@@ -33,11 +32,9 @@ nav_order: 3
 - **WashU Source**, June 2020 — [*Ancient micrometeoroids carried specks of stardust, water to asteroid 4 Vesta*](https://source.washu.edu/2020/06/ancient-micrometeoroids-carried-specks-of-stardust-water-to-asteroid-4-vesta/) — Coverage of [*Geochimica et Cosmochimica Acta* paper](https://doi.org/10.1016/j.gca.2020.05.026) on the Kapoeta howardite.
 
 ## 2018
-
-- **Carnegie Science**, January 2018 — [*Meteoritic stardust unlocks timing of supernova dust formation*](https://carnegiescience.edu/news/meteoritic-stardust-unlocks-timing-supernova-dust-formation) — Press release for [*Science Advances* paper](https://doi.org/10.1126/sciadv.aao1054) on late formation of silicon carbide in Type II supernovae.
 - **ScienceDaily**, January 2018 — [*Meteoritic stardust unlocks timing of supernova dust formation*](https://www.sciencedaily.com/releases/2018/01/180118142629.htm) — Republished from Carnegie Science; same [*Science Advances* paper](https://doi.org/10.1126/sciadv.aao1054).
 - **Phys.org**, 2018 — [*Supernova stardust secrets*](https://phys.org/news/2024-03-supernova-stardust-secrets.html) — Coverage of the same [*Science Advances* paper](https://doi.org/10.1126/sciadv.aao1054).
-- **Space.com** — [*Grain of star dust in meteorite reveals supernova history*](https://www.space.com/grain-star-dust-meteorite-supernova) — Coverage of the same [*Science Advances* paper](https://doi.org/10.1126/sciadv.aao1054).
+- **Space.com** — [*Grain of stardust in meteorite reveals supernova history*](https://www.space.com/grain-star-dust-meteorite-supernova) — Coverage of the same [*Science Advances* paper](https://doi.org/10.1126/sciadv.aao1054).
 
 ## 2017
 
