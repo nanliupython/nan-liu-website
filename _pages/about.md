@@ -68,7 +68,7 @@ My research uses in situ isotope measurements of microscopic stardust grains —
 
 <div class="row">
   <div class="col-md-6 mb-4 text-center">
-    <img src="{{ '/assets/img/chili_render.jpg' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
+    <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
     <p style="margin-top: 0.75rem;">
       <strong>CHILI</strong><br>
       <span style="font-size: 0.9rem; color: #6c757d;">Resonance ionization mass spectrometer<br>The University of Chicago</span>
