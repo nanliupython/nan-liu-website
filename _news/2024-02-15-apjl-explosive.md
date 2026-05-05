@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published in *ApJL*: [*Explosive nucleosynthesis in core-collapse Type II supernovae: insights from new C, N, Si, and Al-Mg isotopic compositions of presolar grains*](https://doi.org/10.3847/2041-8213/ad18c7) — covered in [press](https://phys.org/news/2024-03-supernova-stardust-secrets.html).
+Published in *ApJL*: [*Explosive nucleosynthesis in core-collapse Type II supernovae: insights from new C, N, Si, and Al-Mg isotopic compositions of presolar grains*](https://doi.org/10.3847/2041-8213/ad18c7).
