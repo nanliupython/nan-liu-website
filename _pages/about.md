@@ -28,9 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University.
-
-My research uses in situ isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
+I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University. My research uses in situ isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
 
 <div style="clear: both;"></div>
 
