@@ -1,4 +1,4 @@
-cv_pdf: cv.pdf
+cv_pdf: assets/pdf/cv.pdf
 email: nanliu@bu.edu
 #inspirehep_id: false
 rss_icon: false
