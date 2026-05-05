@@ -14,7 +14,7 @@ profile:
     <p>725 Commonwealth Ave</p>
     <p>Boston, MA 02215</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -23,7 +23,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 3
 ---
