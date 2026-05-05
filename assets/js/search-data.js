@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nan-liu.com/publications/";
           },
-        },{id: "nav-media",
-          title: "media",
-          description: "News articles, interviews, and press coverage of my research.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nan-liu.com/media/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nan-liu.com/projects/";
-          },
         },{id: "nav-news",
           title: "news",
           description: "",
@@ -37,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nan-liu.com/news/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-media",
+          title: "media",
+          description: "News articles, interviews, and press coverage of my research.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nan-liu.com/repositories/";
+            window.location.href = "/nan-liu.com/media/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -51,28 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nan-liu.com/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/nan-liu.com/people/";
+            window.location.href = "/nan-liu.com/projects/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/nan-liu.com/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/nan-liu.com/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
