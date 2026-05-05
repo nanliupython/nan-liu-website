@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Research Scientist · <a href="https://www.bu.edu/iar/">Institute for Astrophysical Research</a>, Boston University
+subtitle: Cosmochemist · Decoding the chemical history of the Galaxy through micron-scale meteoritic stardust
 
 profile:
   align: right
@@ -28,10 +28,57 @@ latest_posts:
   limit: 3
 ---
 
-I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University, and a Visiting Investigator at the [Carnegie Institution for Science](https://epl.carnegiescience.edu/)'s Earth & Planets Laboratory. From January to July 2026, I am also a Visiting Scholar at the [Institute for Advanced Study](https://www.ias.edu/) in Princeton.
+I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University, and a Visiting Investigator at the [Carnegie Institution for Science](https://epl.carnegiescience.edu/)'s Earth & Planets Laboratory. From January to July 2026, I am also a Visitor at the [Institute for Advanced Study](https://www.ias.edu/) in Princeton.
 
-My research connects microscopic measurements to nuclear astrophysics. **Presolar grains** are tiny stardust particles — typically a submicron across — that condensed in the outflows of dying stars before our solar system formed, then survived intact long enough to be embedded in primitive meteorites. Their isotopic compositions carry the fingerprints of nucleosynthesis in their parent stars. By measuring these grains one at a time with modern in situ mass spectrometric techniques, the isotopic data provide direct, ground-truth constraints on theoretical models of core-collapse supernovae, AGB stars, novae, and Type Ia supernovae and related nuclear physics inputs.
+My research uses high-precision isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017). I received the Meteoritical Society's [Nier Prize](https://onlinelibrary.wiley.com/doi/10.1111/maps.14237) in 2021.
 
-I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014. Before joining BU in 2023, I was a Research Assistant Professor of Physics at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie's Earth & Planets Laboratory (2014–2017).
+<div style="clear: both;"></div>
 
-In 2021, I received the Meteoritical Society's [**Nier Prize**](https://meteoritical.org/awards/nier) for outstanding research in meteoritics and allied fields by a young scientist ([award citation by Larry Nittler](https://onlinelibrary.wiley.com/doi/10.1111/maps.14237)).
+<figure style="margin: 2rem 0;">
+  <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+  <figcaption style="font-size: 0.9rem; color: #6c757d; text-align: center; margin-top: 0.75rem;">
+    From a 1 µm stardust grain (right) to a supernova remnant 10²² µm across (left) — presolar grains carry the chemical fingerprints of ancient stars.
+  </figcaption>
+</figure>
+
+<h2 style="margin-top: 2.5rem;">Research</h2>
+
+<div class="row">
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">💎 Presolar Grains</h5>
+      <p style="font-size: 0.95rem; margin: 0;">Microscopic dust grains older than the Sun, condensed in dying stars and embedded in primitive meteorites. Each grain is a sample of a single ancient star.</p>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">🌟 Origins</h5>
+      <p style="font-size: 0.95rem; margin: 0;">Origins of the elements, origins of presolar grains, and origins of our Solar System — the chemical history connecting stars to planets.</p>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">🔬 In situ Isotope Microanalysis</h5>
+      <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
+    </div>
+  </div>
+</div>
+
+<h2 style="margin-top: 2.5rem;">Instruments</h2>
+
+<div class="row">
+  <div class="col-md-6 mb-4 text-center">
+    <img src="{{ '/assets/img/chili_render.jpg' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
+    <p style="margin-top: 0.75rem;">
+      <strong>CHILI</strong><br>
+      <span style="font-size: 0.9rem; color: #6c757d;">Resonance ionization mass spectrometer<br>The University of Chicago</span>
+    </p>
+  </div>
+  <div class="col-md-6 mb-4 text-center">
+    <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
+    <p style="margin-top: 0.75rem;">
+      <strong>NanoSIMS 50L</strong><br>
+      <span style="font-size: 0.9rem; color: #6c757d;">Secondary ion mass spectrometer<br>Carnegie EPL & Washington University</span>
+    </p>
+  </div>
+</div>
