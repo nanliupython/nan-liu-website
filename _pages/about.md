@@ -28,6 +28,36 @@ latest_posts:
   limit: 3
 ---
 
+<style>
+/* Pull profile photo up to align with title */
+.profile {
+  margin-top: -6rem;
+}
+
+/* Distinct tagline styling */
+.post-description {
+  font-style: italic;
+  color: #6c757d;
+  font-size: 1.1rem;
+  border-left: 3px solid #b509ac;
+  padding-left: 1rem;
+  margin: 1rem 0 2rem 0;
+}
+
+/* Address text — match site font, softer style */
+.more-info {
+  font-family: inherit !important;
+  font-size: 0.95rem;
+  color: #6c757d;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.more-info p {
+  margin-bottom: 0.25rem;
+}
+</style>
+
 I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University. My research uses in situ isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
 
 <div style="clear: both;"></div>
@@ -43,15 +73,19 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
   <!-- RIGHT: Instruments stacked -->
   <div class="col-md-6">
-    <div class="text-center mb-4">
+    <div class="text-center mb-3">
       <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
-      <p style="margin-top: 0.5rem; margin-bottom: 0.25rem;"><strong>CHILI</strong></p>
-      <p style="font-size: 0.9rem; color: #6c757d; margin: 0;">Resonance ionization mass spectrometer · The University of Chicago</p>
+      <p style="margin-top: 0.5rem; margin-bottom: 0;">
+      <strong>CHILI</strong>
+      <span style="font-size: 0.9rem; color: #6c757d;"> · The University of Chicago</span>
+</p>
     </div>
     <div class="text-center">
       <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
-      <p style="margin-top: 0.5rem; margin-bottom: 0.25rem;"><strong>NanoSIMS 50L</strong></p>
-      <p style="font-size: 0.9rem; color: #6c757d; margin: 0;">Secondary ion mass spectrometer · Carnegie EPL & Washington University</p>
+      <p style="margin-top: 0.5rem; margin-bottom: 0;">
+      <strong>NanoSIMS 50L</strong>
+      <span style="font-size: 0.9rem; color: #6c757d;"> · Carnegie EPL </span>
+</p>
     </div>
   </div>
 </div>
