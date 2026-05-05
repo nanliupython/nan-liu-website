@@ -20,9 +20,11 @@ basics:
     - network: ORCID
       username: 0000-0001-7644-7341
       url: https://orcid.org/0000-0001-7644-7341
-    - network: GitHub
-      username: nanliupython
-      url: https://github.com/nanliupython
+    - network: GoogleScholar
+      url: https://scholar.google.com/citations?user=dGoIdFgAAAAJ&hl=en
+    - network: ResearchGate
+      url: https://www.researchgate.net/profile/Nan-Liu-8
+
 
 work:
   - name: Institute for Advanced Study
