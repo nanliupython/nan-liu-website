@@ -4,4 +4,7 @@ email: nanliu@bu.edu
 #rss_icon: false
 scholar_userid: dGoIdFgAAAAJ
 orcid_id: 0000-0002-4456-4065
-ResearchGate: Nan-Liu-8
+ResearchGate:
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Nan-Liu-8
