@@ -32,51 +32,32 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
 <div style="clear: both;"></div>
 
-<figure style="margin: 2rem 0;">
-  <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
-  <figcaption style="font-size: 0.9rem; color: #6c757d; text-align: center; margin-top: 0.75rem;">
-    From a 1 µm stardust grain (right) to a supernova remnant 10²² µm across (left) — presolar grains carry the chemical fingerprints of ancient stars.
-  </figcaption>
-</figure>
-
-<h2 style="margin-top: 2.5rem;">Research</h2>
-
-<div class="row">
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">💎 Presolar Grains</h5>
-      <p style="font-size: 0.95rem; margin: 0;">Microscopic dust grains older than the Sun, condensed in dying stars and embedded in primitive meteorites. Each grain is a sample of a single ancient star.</p>
-    </div>
+<div class="row align-items-center" style="margin: 2.5rem 0;">
+  <!-- LEFT: Crab + grain hero -->
+  <div class="col-md-6 mb-4 mb-md-0">
+    <img src="{{ '/assets/img/Science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+    <p style="font-size: 0.9rem; color: #6c757d; text-align: center; margin-top: 0.75rem;">
+      From a 1 µm stardust grain to a supernova remnant 10²² µm across — presolar grains carry the chemical fingerprints of ancient stars.
+    </p>
   </div>
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🌟 Origins</h5>
-      <p style="font-size: 0.95rem; margin: 0;">Origins of the elements, origins of presolar grains, and origins of our Solar System — the chemical history connecting stars to planets.</p>
+
+  <!-- RIGHT: Instruments stacked -->
+  <div class="col-md-6">
+    <div class="text-center mb-4">
+      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
+      <p style="margin-top: 0.5rem; margin-bottom: 0.25rem;"><strong>CHILI</strong></p>
+      <p style="font-size: 0.9rem; color: #6c757d; margin: 0;">Resonance ionization mass spectrometer · The University of Chicago</p>
     </div>
-  </div>
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🔬 In situ Isotope Microanalysis</h5>
-      <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
+    <div class="text-center">
+      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
+      <p style="margin-top: 0.5rem; margin-bottom: 0.25rem;"><strong>NanoSIMS 50L</strong></p>
+      <p style="font-size: 0.9rem; color: #6c757d; margin: 0;">Secondary ion mass spectrometer · Carnegie EPL & Washington University</p>
     </div>
   </div>
 </div>
 
-<h2 style="margin-top: 2.5rem;">Instruments</h2>
+<h2 style="margin-top: 2.5rem;">Research</h2>
 
 <div class="row">
-  <div class="col-md-6 mb-4 text-center">
-    <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
-    <p style="margin-top: 0.75rem;">
-      <strong>CHILI</strong><br>
-      <span style="font-size: 0.9rem; color: #6c757d;">Resonance ionization mass spectrometer<br>The University of Chicago</span>
-    </p>
-  </div>
-  <div class="col-md-6 mb-4 text-center">
-    <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
-    <p style="margin-top: 0.75rem;">
-      <strong>NanoSIMS 50L</strong><br>
-      <span style="font-size: 0.9rem; color: #6c757d;">Secondary ion mass spectrometer<br>Carnegie EPL & Washington University</span>
-    </p>
-  </div>
+  <!-- Keep your existing 3 research cards here -->
 </div>
