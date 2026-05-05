@@ -1,105 +1,156 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Nan Liu
-    - name: Position
-      value: Senior Research Scientist
-    - name: Affiliation
-      value: Institute for Astrophysical Research, Boston University
-    - name: Address
-      value: 725 Commonwealth Avenue, Boston, MA 02215
-    - name: Email
-      value: nanliu@bu.edu
-    - name: Languages
-      value: English, Mandarin
+basics:
+  name: Nan Liu
+  label: Senior Research Scientist
+  image:
+  email: nanliu@bu.edu
+  phone:
+  url: https://nan-liu.com
+  summary: >
+    Cosmochemist studying presolar grains — tiny dust grains older than the Sun
+    that survived the formation of the solar system. I use high-precision NanoSIMS
+    and other microanalytical techniques to constrain stellar nucleosynthesis,
+    the origin of the solar system, and Galactic chemical evolution.
+  location:
+    address: 725 Commonwealth Avenue
+    postalCode: "02215"
+    city: Boston
+    region: MA
+    countryCode: "US"
+  profiles:
+    - network: ORCID
+      username: 0000-0001-7644-7341
+      url: https://orcid.org/0000-0001-7644-7341
+    - network: GitHub
+      username: nanliupython
+      url: https://github.com/nanliupython
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Cosmochemistry
-      institution: The University of Chicago, Chicago, IL
-      year: 2014
-    - title: B.E. in Environmental Science
-      institution: University of Science and Technology of China
-      year: 2009
+work:
+  - name: Institute for Advanced Study
+    position: Visitor
+    location: Princeton, NJ
+    url: https://www.ias.edu
+    startDate: "2026-01"
+    endDate: "2026-07"
+    summary: Spring 2026 visit at the School of Natural Sciences.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Visitor
-      institution: Institute for Advanced Study, Princeton, NJ
-      year: 01/2026 – 07/2026
-    - title: Senior Research Scientist
-      institution: Institute for Astrophysical Research, Boston University
-      year: 2023 – present
-    - title: Visiting Investigator
-      institution: Earth & Planets Laboratory, Carnegie Institution for Science
-      year: 2018 – present
-    - title: Research Assistant Professor of Physics
-      institution: Washington University in St. Louis
-      year: 2018 – 2022
-    - title: Postdoctoral Associate
-      institution: Department of Terrestrial Magnetism, Carnegie Institution for Science
-      year: 2014 – 2017
+  - name: Boston University
+    position: Senior Research Scientist
+    location: Boston, MA
+    url: https://www.bu.edu/iar/
+    startDate: "2023-01"
+    summary: Institute for Astrophysical Research.
 
-- title: Awards and Honors
-  type: time_table
-  contents:
-    - year: 2021
-      items:
-        - "<strong>Nier Prize</strong>, Meteoritical Society — for outstanding research in meteoritics and closely allied fields by an early-career scientist"
-    - year: 2019
-      items:
-        - JINA-CEE Travel Award to the p-Process Workshop
-    - year: 2017
-      items:
-        - Travel Award to the Meteoritical Society Meeting
-    - year: 2016
-      items:
-        - JINA-CEE Travel Award to the Torino Workshop
-        - Travel Award to the Meteoritical Society Meeting
-    - year: 2012
-      items:
-        - Travel Award to the Meteoritical Society Meeting
-    - year: 2011 – 2014
-      items:
-        - NASA Earth and Space Science Fellowship
+  - name: Carnegie Institution for Science
+    position: Visiting Investigator
+    location: Washington, D.C.
+    url: https://epl.carnegiescience.edu
+    startDate: "2018-01"
+    summary: Earth & Planets Laboratory.
 
-- title: Community Service
-  type: list
-  contents:
-    - Reviewer for <em>ApJ</em>, <em>GCA</em>, <em>Science</em>, <em>MAPS</em>, <em>Nature</em>, NASA, and DOE programs
-    - Guest Editor for the Topic Collection "From Stars to Nuclei&#58; Honoring the Legacy of Roberto Gallino" in <em>The European Physical Journal A</em>
-    - Committee Member for the Astrophysics with Radioactive Isotopes 2026 conference (Traverse City, MI)
-    - Member of Scientific Committee for the s, i &amp; r Element Nucleosynthesis (sirEN) Conference, Giulianova, Italy (2025)
-    - Member of Scientific Committee for the Russbach School on Nuclear Astrophysics (2024, 2025)
-    - Member of Scientific Organizing Committee for the Meteoritical Society Meeting (2021)
-    - Chair of Presolar Grains Session, Lunar and Planetary Science Conference (2019, 2022, 2023, 2024, 2025, 2026)
-    - Chair of Presolar Grains Session, Meteoritical Society Meeting (2015, 2017, 2021, 2023, 2025)
-    - Chair of Calcium-Aluminum-rich Inclusions Session, Lunar and Planetary Science Conference (2021)
-    - Convener of Protoplanetary Disk Evolution Session, Goldschmidt Conference (2020)
-    - Judge for the Dwornik Student Award, LPSC (2016, 2017, 2018, 2019, 2022, 2024, 2025)
-    - Judge for the McKay Student Award, Meteoritical Society Meeting (2015, 2017, 2018, 2023, 2024, 2025)
+  - name: Washington University in St. Louis
+    position: Research Assistant Professor of Physics
+    location: St. Louis, MO
+    startDate: "2018-01"
+    endDate: "2022-12"
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Cosmochemistry of presolar grains
-      items:
-        - High-precision NanoSIMS isotope measurements (Si, Ca, Ti, Ni)
-        - Coordinated micro-Raman, TEM, and resonance ionization mass spectrometry
-    - title: Stellar nucleosynthesis
-      items:
-        - Core-collapse Type II supernovae
-        - Asymptotic giant branch (AGB) stars
-        - Type Ia supernovae and Galactic chemical evolution
-    - title: Solar system origin and evolution
-      items:
-        - Stochastic stellar pollution in the early solar system
-        - Formation timing of presolar dust grains
+  - name: Carnegie Institution for Science
+    position: Postdoctoral Associate
+    location: Washington, D.C.
+    startDate: "2014-08"
+    endDate: "2017-12"
+    summary: Department of Terrestrial Magnetism.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <strong>Hobbies:</strong> Hiking, photography
+education:
+  - institution: The University of Chicago
+    location: Chicago, IL
+    url: https://geosci.uchicago.edu
+    area: Cosmochemistry
+    studyType: Ph.D.
+    startDate: "2009"
+    endDate: "2014"
+
+  - institution: University of Science and Technology of China
+    location: Hefei, China
+    area: Environmental Science
+    studyType: B.E.
+    startDate: "2005"
+    endDate: "2009"
+
+awards:
+  - title: Nier Prize
+    date: "2021"
+    awarder: Meteoritical Society
+    summary: >
+      Awarded for outstanding research in meteoritics and closely allied fields by an early-career scientist.
+  - title: JINA-CEE Travel Award (p-Process Workshop)
+    date: "2019"
+    awarder: Joint Institute for Nuclear Astrophysics
+  - title: Travel Award (Meteoritical Society Meeting)
+    date: "2017"
+    awarder: Meteoritical Society
+  - title: JINA-CEE Travel Award (Torino Workshop)
+    date: "2016"
+    awarder: Joint Institute for Nuclear Astrophysics
+  - title: Travel Award (Meteoritical Society Meeting)
+    date: "2016"
+    awarder: Meteoritical Society
+  - title: Travel Award (Meteoritical Society Meeting)
+    date: "2012"
+    awarder: Meteoritical Society
+  - title: NASA Earth and Space Science Fellowship
+    date: "2011 – 2014"
+    awarder: NASA
+
+certificates:
+
+publications:
+
+skills:
+  - name: Microanalytical Techniques
+    level: Expert
+    icon: fa-solid fa-microscope
+    keywords:
+      - NanoSIMS
+      - Resonance Ionization Mass Spectrometry (RIMS)
+      - Micro-Raman spectroscopy
+      - FIB-TEM
+      - SEM-EDX
+
+  - name: Stellar Nucleosynthesis
+    level: Expert
+    icon: fa-solid fa-star
+    keywords:
+      - Core-collapse supernovae
+      - Asymptotic giant branch (AGB) stars
+      - Type Ia supernovae
+      - s-process and neutron-burst nucleosynthesis
+      - Galactic chemical evolution
+
+  - name: Computational
+    level: Advanced
+    icon: fa-solid fa-laptop-code
+    keywords:
+      - Python (NumPy, SciPy, Matplotlib)
+      - Statistical analysis
+      - Machine learning (PCA, clustering)
+
+languages:
+  - language: English
+    fluency: Fluent
+    icon:
+  - language: Mandarin
+    fluency: Native
+    icon:
+
+interests:
+  - name: Research
+    icon: fa-solid fa-flask
+    keywords:
+      - Presolar grains
+      - Cosmic dust
+      - Origin of the solar system
+      - Stellar nucleosynthesis
+
+references:
+
+projects:
