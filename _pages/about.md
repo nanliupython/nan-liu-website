@@ -35,7 +35,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <div class="row align-items-center" style="margin: 2.5rem 0;">
   <!-- LEFT: Crab + grain hero -->
   <div class="col-md-6 mb-4 mb-md-0">
-    <img src="{{ '/assets/img/Science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
     <p style="font-size: 0.9rem; color: #6c757d; text-align: center; margin-top: 0.75rem;">
       From a 1 µm stardust grain to a supernova remnant 10²² µm across — presolar grains carry the chemical fingerprints of ancient stars.
     </p>
