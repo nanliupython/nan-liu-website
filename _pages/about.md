@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cosmochemist · Decoding the chemical history of the Galaxy through micron-scale meteoritic stardust
+subtitle: Cosmochemist · Decoding Galactic chemical history through meteoritic stardust
 
 profile:
   align: right
