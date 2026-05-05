@@ -6,12 +6,10 @@ basics:
   phone:
   url: https://nan-liu.com
   summary: >
-    Cosmochemist studying presolar grains — tiny dust grains older than the Sun
-    that survived the formation of the solar system. I use high-precision NanoSIMS
-    and other microanalytical techniques to constrain stellar nucleosynthesis,
+    Cosmochemist studying nuclear astrophysics through isotope analyses of presolar grains — tiny ancient stardust grains that formed before the Sun. The goal is to constrain stellar nucleosynthesis,
     the origin of the solar system, and Galactic chemical evolution.
   location:
-    address: 725 Commonwealth Avenue
+    address: 725 Commonwealth Avenue Office 416c
     postalCode: "02215"
     city: Boston
     region: MA
@@ -60,7 +58,6 @@ work:
     location: Washington, D.C.
     startDate: "2014-08"
     endDate: "2017-12"
-    summary: Department of Terrestrial Magnetism.
 
 education:
   - institution: The University of Chicago
@@ -149,7 +146,7 @@ interests:
     icon: fa-solid fa-flask
     keywords:
       - Presolar grains
-      - Cosmic dust
+      - isotopes
       - Origin of the solar system
       - Stellar nucleosynthesis
 
