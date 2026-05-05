@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf
+cv_pdf: assets/pdf/cv.pdf
 description: Last updated May 2026
 toc:
   sidebar: left
