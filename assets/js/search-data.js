@@ -611,7 +611,7 @@ ninja.data = [{
           section: "News",},{id: "news-coauthor-on-apjs-paper-the-presolar-grain-database-i-silicon-carbide-stephan-et-al",
           title: 'Coauthor on ApJS paper: The Presolar Grain Database: I. Silicon Carbide (Stephan et...',
           description: "",
-          section: "News",},{id: "news-published-in-apjl-explosive-nucleosynthesis-in-core-collapse-type-ii-supernovae-insights-from-new-c-n-si-and-al-mg-isotopic-compositions-of-presolar-grains-covered-in-press",
+          section: "News",},{id: "news-published-in-apjl-explosive-nucleosynthesis-in-core-collapse-type-ii-supernovae-insights-from-new-c-n-si-and-al-mg-isotopic-compositions-of-presolar-grains",
           title: 'Published in ApJL: Explosive nucleosynthesis in core-collapse Type II supernovae: insights from new...',
           description: "",
           section: "News",},{id: "news-presented-at-the-lunar-and-planetary-science-conference-potassium-calcium-isotope-systematics-of-supernova-silicon-nitride-grains",
