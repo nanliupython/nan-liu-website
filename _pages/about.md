@@ -24,11 +24,10 @@ latest_posts:
 ---
 
 <style>
-
 /* Make post-header flex so name and tagline sit side-by-side */
 .post-header {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
   flex-wrap: wrap;
   column-gap: 2rem;
   row-gap: 0.5rem;
@@ -40,30 +39,18 @@ latest_posts:
   flex: 0 0 auto;
 }
 
-/* Tagline */
+/* Tagline - serif italic, dusty rose */
 .desc {
   flex: 1 1 0;
   min-width: 250px;
-  margin: 0 !important;
+  margin: 0.5rem 0 0 0 !important;
   font-family: 'Roboto Slab', Georgia, serif !important;
   font-style: italic;
   font-weight: 300;
   color: #a25868 !important;
   font-size: 1.35rem !important;
   letter-spacing: 0.02em;
-  line-height: 1.5;
-}
-
-/* Tagline styling */
-.desc {
-  font-family: 'Roboto Slab', Georgia, serif !important;
-  font-style: italic;
-  font-weight: 300;
-  color: #a25868 !important;
-  font-size: 1.35rem !important;
-  letter-spacing: 0.02em;
-  line-height: 1.5;
-  margin: 0.75rem 0 3rem 0 !important;
+  line-height: 1.3;
 }
 
 /* Address text — match site font, softer style */
@@ -91,6 +78,7 @@ latest_posts:
   font-family: 'Roboto Slab', Georgia, serif;
   font-weight: 400;
   color: #3d3d3d;
+  text-align: center;
 }
 </style>
 
@@ -98,34 +86,9 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
 <div style="clear: both;"></div>
 
-<div class="row align-items-center" style="margin: 0.5rem 0;">
-  <!-- LEFT: Crab + grain hero -->
-  <div class="col-md-6 mb-4 mb-md-0">
-    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
-    <p style="font-size: 0.9rem; color: #6c757d; text-align: center; margin-top: 0.5rem;">
-      From a 1 µm stardust grain to a supernova remnant 10²² µm across — presolar grains carry the chemical fingerprints of ancient stars.
-    </p>
-  </div>
-
-  <!-- RIGHT: Instruments stacked -->
-  <div class="col-md-6">
-    <div class="text-center mb-3">
-      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="Resonance ion mass spectrometer" class="img-fluid rounded" style="max-width: 72%;">
-      <p style="margin-top: 0.25rem; margin-bottom: 0;">
-      <strong>CResonance ion mass spectrometer</strong>
-</p>
-    </div>
-    <div class="text-center">
-      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded" style="max-width: 72%;">
-      <p style="margin-top: 0.25rem; margin-bottom: 0;">
-      <strong>Cameca NanoSIMS</strong>
-</p>
-    </div>
-  </div>
-</div>
-
 <h2 style="margin-top: 2.5rem;">Research</h2>
 
+<!-- Top row: 3 research cards -->
 <div class="row">
   <div class="col-md-4 mb-3">
     <div class="card h-100 p-3">
@@ -141,12 +104,32 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
   </div>
   <div class="col-md-4 mb-3">
     <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🔬 In situ Isotope Microanalysis</h5>
+      <h5 style="margin-bottom: 0.75rem;">🔬 Isotope Analysis</h5>
       <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
     </div>
   </div>
 </div>
 
-<div class="row">
-  <!-- Keep your existing 3 research cards here -->
+<!-- Bottom row: Crab spans 2 columns, instruments in 3rd column -->
+<div class="row align-items-center" style="margin-top: 1rem;">
+  <!-- Crab + grain spans first two columns -->
+  <div class="col-md-8 mb-4 mb-md-0">
+    <img src="{{ '/assets/img/Science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+  </div>
+
+  <!-- Instruments stacked in third column -->
+  <div class="col-md-4">
+    <div class="text-center mb-3">
+      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="Resonance ion mass spectrometer" class="img-fluid rounded" style="max-width: 90%;">
+      <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.9rem;">
+        <strong>Resonance ion mass spectrometer</strong>
+      </p>
+    </div>
+    <div class="text-center">
+      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded" style="max-width: 90%;">
+      <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.9rem;">
+        <strong>Cameca NanoSIMS</strong>
+      </p>
+    </div>
+  </div>
 </div>
