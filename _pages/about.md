@@ -53,6 +53,20 @@ latest_posts:
 .more-info p {
   margin-bottom: 0.25rem;
 }
+
+.card {
+  background-color: #faf6f0;       /* warm cream, like Anthropologie's product cards */
+  border: 1px solid #e8e0d4;       /* subtle warm border */
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.card h5 {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-weight: 400;
+  color: #3d3d3d;
+}
+
 </style>
 
 I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University. My research uses in situ isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
@@ -107,18 +121,6 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
     </div>
   </div>
 </div>
-.card {
-  background-color: #faf6f0;       /* warm cream, like Anthropologie's product cards */
-  border: 1px solid #e8e0d4;       /* subtle warm border */
-  border-radius: 4px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-}
-
-.card h5 {
-  font-family: 'Roboto Slab', Georgia, serif;
-  font-weight: 400;
-  color: #3d3d3d;
-}
 
 <div class="row">
   <!-- Keep your existing 3 research cards here -->
