@@ -93,7 +93,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
     <div class="text-center">
       <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
       <p style="margin-top: 0.5rem; margin-bottom: 0;">
-      <strong>NanoSIMS 50L</strong>
+      <strong>Cameca NanoSIMS</strong>
 </p>
     </div>
   </div>
