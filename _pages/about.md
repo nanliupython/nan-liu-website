@@ -73,7 +73,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
 <div style="clear: both;"></div>
 
-<div class="row align-items-center" style="margin: 2.5rem 0;">
+<div class="row align-items-center" style="margin: 0.5rem 0;">
   <!-- LEFT: Crab + grain hero -->
   <div class="col-md-6 mb-4 mb-md-0">
     <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
