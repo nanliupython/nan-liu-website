@@ -86,7 +86,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
 <div style="clear: both;"></div>
 
-<h2 style="margin-top: 2.5rem;">Research</h2>
+<h2 style="margin-top: 0.5rem;">Research</h2>
 
 <!-- Top row: 3 research cards -->
 <div class="row">
