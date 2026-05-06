@@ -33,7 +33,7 @@ latest_posts:
 .post-description {
   font-family: 'Roboto Slab', serif;
   font-style: italic;
-  color: #b509ac;
+  color: #a25868;
   font-size: 1.25rem;
   font-weight: 300;
   letter-spacing: 0.01em;
