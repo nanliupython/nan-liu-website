@@ -70,17 +70,15 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
   <!-- RIGHT: Instruments stacked -->
   <div class="col-md-6">
     <div class="text-center mb-3">
-      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded" style="max-width: 75%;">
+      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="Resonance ion mass spectrometer" class="img-fluid rounded" style="max-width: 75%;">
       <p style="margin-top: 0.5rem; margin-bottom: 0;">
       <strong>CHILI</strong>
-      <span style="font-size: 0.9rem; color: #6c757d;"> · The University of Chicago</span>
 </p>
     </div>
     <div class="text-center">
       <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded">
       <p style="margin-top: 0.5rem; margin-bottom: 0;">
       <strong>NanoSIMS 50L</strong>
-      <span style="font-size: 0.9rem; color: #6c757d;"> · Carnegie EPL </span>
 </p>
     </div>
   </div>
