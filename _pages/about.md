@@ -114,7 +114,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <div class="row align-items-center" style="margin-top: 1rem;">
   <!-- Crab + grain spans first two columns -->
   <div class="col-md-8 mb-4 mb-md-0">
-    <img src="{{ '/assets/img/Science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
   </div>
 
   <!-- Instruments stacked in third column -->
