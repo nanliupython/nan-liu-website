@@ -31,13 +31,14 @@ latest_posts:
 
 /* Distinct tagline styling */
 .post-description {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Roboto Slab', Georgia, serif;
   font-style: italic;
-  color: #a25868;
-  font-size: 1.25rem;
   font-weight: 300;
-  letter-spacing: 0.01em;
-  margin: 0.5rem 0 2.5rem 0;
+  color: #a25868;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  margin: 0.75rem 0 3rem 0;
 }
 
 /* Address text — match site font, softer style */
@@ -106,6 +107,18 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
     </div>
   </div>
 </div>
+.card {
+  background-color: #faf6f0;       /* warm cream, like Anthropologie's product cards */
+  border: 1px solid #e8e0d4;       /* subtle warm border */
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.card h5 {
+  font-family: 'Roboto Slab', Georgia, serif;
+  font-weight: 400;
+  color: #3d3d3d;
+}
 
 <div class="row">
   <!-- Keep your existing 3 research cards here -->
