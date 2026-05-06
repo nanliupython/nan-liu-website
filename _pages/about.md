@@ -24,9 +24,34 @@ latest_posts:
 ---
 
 <style>
-/* Pull profile photo up to align with title */
-.profile {
-  margin-top: -6rem;
+
+/* Make post-header flex so name and tagline sit side-by-side */
+.post-header {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: 2rem;
+  row-gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.post-title {
+  margin-bottom: 0 !important;
+  flex: 0 0 auto;
+}
+
+/* Tagline */
+.desc {
+  flex: 1 1 0;
+  min-width: 250px;
+  margin: 0 !important;
+  font-family: 'Roboto Slab', Georgia, serif !important;
+  font-style: italic;
+  font-weight: 300;
+  color: #a25868 !important;
+  font-size: 1.35rem !important;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 
 /* Tagline styling */
