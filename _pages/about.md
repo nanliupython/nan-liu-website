@@ -24,6 +24,12 @@ latest_posts:
 ---
 
 <style>
+
+/* Center bio paragraph vertically with profile photo */
+.clearfix > p:first-child {
+  padding-top: 2.5rem;
+}
+
 /* Make post-header flex so name and tagline sit side-by-side */
 .post-header {
   display: flex;
@@ -114,7 +120,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <div class="row align-items-center" style="margin-top: 1rem;">
   <!-- Crab + grain spans first two columns -->
   <div class="col-md-8 mb-4 mb-md-0">
-    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded">
+    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded" style="max-height: 500px; object-fit: cover; width: 100%;">
   </div>
 
   <!-- Instruments stacked in third column -->
