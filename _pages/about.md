@@ -29,16 +29,16 @@ latest_posts:
   margin-top: -6rem;
 }
 
-/* Distinct tagline styling */
-.post-description {
-  font-family: 'Roboto Slab', Georgia, serif;
+/* Tagline styling */
+.desc {
+  font-family: 'Roboto Slab', Georgia, serif !important;
   font-style: italic;
   font-weight: 300;
-  color: #a25868;
-  font-size: 1.35rem;
+  color: #a25868 !important;
+  font-size: 1.35rem !important;
   letter-spacing: 0.02em;
   line-height: 1.5;
-  margin: 0.75rem 0 3rem 0;
+  margin: 0.75rem 0 3rem 0 !important;
 }
 
 /* Address text — match site font, softer style */
@@ -54,9 +54,10 @@ latest_posts:
   margin-bottom: 0.25rem;
 }
 
+/* Research cards — warm cream Anthropologie feel */
 .card {
-  background-color: #faf6f0;       /* warm cream, like Anthropologie's product cards */
-  border: 1px solid #e8e0d4;       /* subtle warm border */
+  background-color: #faf6f0;
+  border: 1px solid #e8e0d4;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
@@ -66,7 +67,6 @@ latest_posts:
   font-weight: 400;
   color: #3d3d3d;
 }
-
 </style>
 
 I am a Senior Research Scientist at the [Institute for Astrophysical Research](https://www.bu.edu/iar/), Boston University. My research uses in situ isotope measurements of microscopic stardust grains — preserved in primitive meteorites for billions of years — to test theoretical models of stellar nucleosynthesis and trace the chemical evolution of our Galaxy. I received my Ph.D. in Cosmochemistry from the University of Chicago in 2014, and was previously a Research Assistant Professor at Washington University in St. Louis (2018–2022) and a Postdoctoral Associate at Carnegie EPL (2014–2017).
