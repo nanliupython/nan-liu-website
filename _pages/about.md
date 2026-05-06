@@ -8,11 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Institute for Astrophysical Research</p>
-    <p>Boston University</p>
-    <p>725 Commonwealth Ave</p>
-    <p>Boston, MA 02215</p>
 
 selected_papers: false
 social: true
@@ -36,12 +31,13 @@ latest_posts:
 
 /* Distinct tagline styling */
 .post-description {
+  font-family: 'Roboto Slab', serif;
   font-style: italic;
-  color: #6c757d;
-  font-size: 1.1rem;
-  border-left: 3px solid #b509ac;
-  padding-left: 1rem;
-  margin: 1rem 0 2rem 0;
+  color: #b509ac;
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+  margin: 0.5rem 0 2.5rem 0;
 }
 
 /* Address text — match site font, softer style */
@@ -74,7 +70,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
   <!-- RIGHT: Instruments stacked -->
   <div class="col-md-6">
     <div class="text-center mb-3">
-      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="CHILI mass spectrometer" class="img-fluid rounded">
+      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded" style="max-width: 75%;">
       <p style="margin-top: 0.5rem; margin-bottom: 0;">
       <strong>CHILI</strong>
       <span style="font-size: 0.9rem; color: #6c757d;"> · The University of Chicago</span>
@@ -91,6 +87,27 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 </div>
 
 <h2 style="margin-top: 2.5rem;">Research</h2>
+
+<div class="row">
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">💎 Presolar Grains</h5>
+      <p style="font-size: 0.95rem; margin: 0;">Microscopic dust grains older than the Sun, condensed in dying stars and embedded in primitive meteorites. Each grain is a sample of a single ancient star.</p>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">🌟 Origins</h5>
+      <p style="font-size: 0.95rem; margin: 0;">Origins of the elements, origins of presolar grains, and origins of our Solar System — the chemical history connecting stars to planets.</p>
+    </div>
+  </div>
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">🔬 In situ Isotope Microanalysis</h5>
+      <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
+    </div>
+  </div>
+</div>
 
 <div class="row">
   <!-- Keep your existing 3 research cards here -->
