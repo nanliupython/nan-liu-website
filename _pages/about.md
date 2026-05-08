@@ -120,7 +120,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <!-- Single hero image below the three research cards -->
 <div class="row" style="margin-top: 2rem;">
   <div class="col-12">
-    <img src="{{ '/assets/img/YOUR_NEW_IMAGE.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/Science.png' | relative_url }}"
          alt="Descriptive alt text here"
          class="img-fluid rounded mx-auto d-block"
          style="max-height: 500px; object-fit: cover;">
