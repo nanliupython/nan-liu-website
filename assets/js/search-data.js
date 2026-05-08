@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nan-liu.com/news/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "Research themes spanning nuclear astrophysics, stellar nucleosynthesis, and microanalytical techniques.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nan-liu.com/research/";
+          },
         },{id: "nav-media",
           title: "Media",
           description: "News articles, interviews, and press coverage of my research.",
@@ -36,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/nan-liu.com/cv/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nan-liu.com/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -664,51 +664,26 @@ ninja.data = [{
           section: "News",},{id: "news-invited-talk-upcoming-at-the-18th-international-symposium-on-origin-and-evolution-of-galaxies-omeg18-riken-japan",
           title: 'Invited talk (upcoming) at the 18th International Symposium on Origin and Evolution of...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-nuclear-astrophysics-with-stardust",
+          title: 'Nuclear Astrophysics with Stardust',
+          description: "Using presolar grains as observational records of stellar nucleosynthesis, stellar physics, and Galactic chemical evolution.",
           section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/nan-liu.com/projects/01_nuclear_astrophysics/";
+            },},{id: "projects-testing-nuclear-reaction-rates",
+          title: 'Testing Nuclear Reaction Rates',
+          description: "Closing the loop between accelerator-based nuclear physics and the isotopic record preserved in stardust.",
           section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/nan-liu.com/projects/02_nuclear_reaction_rates/";
+            },},{id: "projects-machine-learning-in-cosmochemistry",
+          title: 'Machine Learning in Cosmochemistry',
+          description: "Pattern discovery in high-dimensional, multimodal datasets of isotopic, spectroscopic, and structural grain measurements.",
           section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/nan-liu.com/projects/03_machine_learning/";
+            },},{id: "projects-microanalytical-techniques",
+          title: 'Microanalytical Techniques',
+          description: "High-precision, single-grain isotope analysis combining NanoSIMS and resonance ionization mass spectrometry across the periodic table.",
           section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/nan-liu.com/projects/9_project/";
+              window.location.href = "/nan-liu.com/projects/04_microanalytical_techniques/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
