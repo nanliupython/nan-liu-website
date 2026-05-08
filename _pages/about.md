@@ -93,38 +93,6 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <div style="clear: both;"></div>
 
 <h2 style="margin-top: 0.5rem;">Research</h2>
-
-<!-- Top row: 3 research cards -->
-<div class="row">
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🔬 Isotope Analysis</h5>
-      <p style="font-size: 0.95rem; margin: 0;">
-        High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.
-      </p>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">💎 Presolar Grains</h5>
-      <p style="font-size: 0.95rem; margin: 0;">
-        Microscopic dust grains older than the Sun, condensed in dying stars and embedded in primitive meteorites. Each grain is a sample of a single ancient star.
-      </p>
-    </div>
-  </div>
-
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🌟 Origins</h5>
-      <p style="font-size: 0.95rem; margin: 0;">
-        Origins of the elements, origins of presolar grains, and origins of our Solar System — the chemical history connecting stars to planets.
-      </p>
-    </div>
-  </div>
-</div>
-
-
 <!-- Single hero image below the three research cards -->
 <div class="row" style="margin-top: 0.1rem;">
   <div class="col-12">
