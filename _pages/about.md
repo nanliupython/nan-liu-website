@@ -126,7 +126,7 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 
 
 <!-- Single hero image below the three research cards -->
-<div class="row" style="margin-top: 2rem;">
+<div class="row" style="margin-top: 0.5rem;">
   <div class="col-12">
     <img src="{{ '/assets/img/Science.png' | relative_url }}"
          alt="Descriptive alt text here"
