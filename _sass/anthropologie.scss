@@ -75,6 +75,12 @@ code, pre, kbd, samp, .highlight {
   color: var(--global-theme-color) !important;
 }
 
+.navbar .nav-item .nav-link {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.9rem;
+}
+
 /* ---- Links ---- */
 a, a:visited {
   color: var(--global-theme-color);
