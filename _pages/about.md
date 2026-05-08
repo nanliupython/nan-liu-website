@@ -98,6 +98,13 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <div class="row">
   <div class="col-md-4 mb-3">
     <div class="card h-100 p-3">
+      <h5 style="margin-bottom: 0.75rem;">🔬 Isotope Analysis</h5>
+      <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
+    </div>
+  </div>
+</div>
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 p-3">
       <h5 style="margin-bottom: 0.75rem;">💎 Presolar Grains</h5>
       <p style="font-size: 0.95rem; margin: 0;">Microscopic dust grains older than the Sun, condensed in dying stars and embedded in primitive meteorites. Each grain is a sample of a single ancient star.</p>
     </div>
@@ -108,34 +115,14 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
       <p style="font-size: 0.95rem; margin: 0;">Origins of the elements, origins of presolar grains, and origins of our Solar System — the chemical history connecting stars to planets.</p>
     </div>
   </div>
-  <div class="col-md-4 mb-3">
-    <div class="card h-100 p-3">
-      <h5 style="margin-bottom: 0.75rem;">🔬 Isotope Analysis</h5>
-      <p style="font-size: 0.95rem; margin: 0;">High-precision isotope measurements at the single-grain scale using NanoSIMS, RIMS, and complementary microanalytical techniques.</p>
-    </div>
-  </div>
-</div>
 
-<!-- Bottom row: Crab spans 2 columns, instruments in 3rd column -->
-<div class="row align-items-center" style="margin-top: 1rem;">
-  <!-- Crab + grain spans first two columns -->
-  <div class="col-md-8 mb-4 mb-md-0">
-    <img src="{{ '/assets/img/science_hero.jpg' | relative_url }}" alt="Crab Nebula and a presolar SiC grain" class="img-fluid rounded" style="max-height: 500px; object-fit: cover; width: 70%;">
-  </div>
 
-  <!-- Instruments stacked in third column -->
-  <div class="col-md-4">
-    <div class="text-center mb-3">
-      <img src="{{ '/assets/img/chili_render.png' | relative_url }}" alt="Resonance ion mass spectrometer" class="img-fluid rounded" style="max-width: 90%;">
-      <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.9rem;">
-        <strong>Resonance ion mass spectrometer</strong>
-      </p>
-    </div>
-    <div class="text-center">
-      <img src="{{ '/assets/img/nanosims.jpg' | relative_url }}" alt="CAMECA NanoSIMS" class="img-fluid rounded" style="max-width: 90%;">
-      <p style="margin-top: 0.25rem; margin-bottom: 0; font-size: 0.9rem;">
-        <strong>Cameca NanoSIMS</strong>
-      </p>
-    </div>
+<!-- Single hero image below the three research cards -->
+<div class="row" style="margin-top: 2rem;">
+  <div class="col-12">
+    <img src="{{ '/assets/img/YOUR_NEW_IMAGE.jpg' | relative_url }}"
+         alt="Descriptive alt text here"
+         class="img-fluid rounded mx-auto d-block"
+         style="max-height: 500px; object-fit: cover;">
   </div>
 </div>
