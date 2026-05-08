@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/nan-liu.com/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Author names matching Liu, N. are highlighted in bold.",
           section: "Navigation",
           handler: () => {
@@ -24,21 +24,21 @@ ninja.data = [{
             window.location.href = "/nan-liu.com/news/";
           },
         },{id: "nav-media",
-          title: "media",
+          title: "Media",
           description: "News articles, interviews, and press coverage of my research.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/nan-liu.com/media/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Last updated May 2026",
           section: "Navigation",
           handler: () => {
             window.location.href = "/nan-liu.com/cv/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
