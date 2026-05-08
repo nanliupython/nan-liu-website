@@ -2,7 +2,7 @@
 layout: page
 title: Testing Nuclear Reaction Rates
 description: Closing the loop between accelerator-based nuclear physics and the isotopic record preserved in stardust.
-img: assets/img/research/nuclear_reactions.jpg
+img: assets/img/nuclear_reactions.jpg
 importance: 2
 category: research
 ---

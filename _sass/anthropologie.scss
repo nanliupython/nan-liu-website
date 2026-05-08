@@ -157,3 +157,11 @@ footer a:hover {
   width: auto;
   vertical-align: -0.15em;
 }
+/* Research card titles — never break mid-word */
+.projects .card-title,
+.projects h2,
+.projects h3 {
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
+}

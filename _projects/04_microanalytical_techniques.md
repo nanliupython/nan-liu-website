@@ -2,7 +2,7 @@
 layout: page
 title: Microanalytical Techniques
 description: High-precision, single-grain isotope analysis combining NanoSIMS and resonance ionization mass spectrometry across the periodic table.
-img: assets/img/research/microanalytical.jpg
+img: assets/img/microanalytical.jpg
 importance: 4
 category: research
 ---

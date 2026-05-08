@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning in Cosmochemistry
 description: Pattern discovery in high-dimensional, multimodal datasets of isotopic, spectroscopic, and structural grain measurements.
-img: assets/img/research/machine_learning.jpg
+img: assets/img/machine_learning.jpg
 importance: 3
 category: research
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Nuclear Astrophysics with Stardust
 description: Using presolar grains as observational records of stellar nucleosynthesis, stellar physics, and Galactic chemical evolution.
-img: assets/img/research/nuclear_astrophysics.jpg
+img: assets/img/nuclear_astrophysics.jpg
 importance: 1
 category: research
 ---
