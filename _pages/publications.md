@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Author names matching <strong>Liu, N.</strong> are highlighted in bold.
 nav: true
 nav_order: 1

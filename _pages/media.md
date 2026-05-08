@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /media/
-title: media
+title: Media
 description: News articles, interviews, and press coverage of my research.
 nav: true
 nav_order: 3
