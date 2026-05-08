@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* Section headings — editorial italic touch */
-article > h2 {
+article h2 {
   font-style: italic;
   font-weight: 400;
   border-bottom: 1px solid var(--global-divider-color);
@@ -122,9 +122,6 @@ blockquote {
 /* ---- Tables ---- */
 .table {
   color: var(--global-text-color);
-}
-.table th {
-  border-top: 1px solid var(--global-divider-color);
 }
 
 /* ---- Cards ---- */
