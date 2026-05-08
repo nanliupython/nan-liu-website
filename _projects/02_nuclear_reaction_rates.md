@@ -7,7 +7,7 @@ importance: 2
 category: research
 ---
 
-{% include figure.liquid path="assets/img/research/nuclear_reactions.jpg" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/nuclear_reactions.jpg" class="img-fluid rounded" %}
 
 Stellar models depend on a network of nuclear reaction rates — neutron-capture cross-sections, β-decay lifetimes, fusion rates — that are measured at terrestrial accelerators. Many of these measurements remain uncertain at the low energies relevant to stellar interiors.
 

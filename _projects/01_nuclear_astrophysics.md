@@ -7,7 +7,7 @@ importance: 1
 category: research
 ---
 
-{% include figure.liquid path="assets/img/research/nuclear_astrophysics.jpg" class="img-fluid rounded" %}
+{% include figure.liquid path="assets/img/nuclear_astrophysics.jpg" class="img-fluid rounded" %}
 
 Presolar grains are microscopic mineral grains older than the Sun, preserved in primitive meteorites for billions of years. Each grain condensed in the outflow of a single ancient star, capturing the isotopic signature of that star's nuclear processes.
 
