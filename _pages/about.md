@@ -95,11 +95,6 @@ I am a Senior Research Scientist at the [Institute for Astrophysical Research](h
 <h2 style="margin-top: 0.5rem;">Research</h2>
 
 <!-- Top row: 3 research cards -->
-<div style="clear: both;"></div>
-
-<h2 style="margin-top: 0.5rem;">Research</h2>
-
-<!-- Top row: 3 research cards -->
 <div class="row">
   <div class="col-md-4 mb-3">
     <div class="card h-100 p-3">
