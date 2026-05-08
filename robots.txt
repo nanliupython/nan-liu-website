@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nanliupython.github.io/nan-liu.com/sitemap.xml
+Sitemap: https://nan-liu.com/sitemap.xml
