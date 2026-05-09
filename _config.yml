@@ -65,9 +65,10 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: /assets/img/Science.png
+description: "Senior Research Scientist studying presolar grains, stellar nucleosynthesis, and Galactic chemical evolution."
+keywords: presolar grains, cosmochemistry, NanoSIMS, stellar nucleosynthesis, Galactic chemical evolution
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
