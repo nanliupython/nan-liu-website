@@ -9,4 +9,4 @@ category: research
 
 {% include figure.liquid path="assets/img/microanalytical.jpg" class="img-fluid rounded" %}
 
-Modern presolar grain analysis demands high precision at the single-grain scale. I use nano-scaled secondary ion mass spectrometry (NanoSIMS) for high-spatial-resolution isotope analysis across a wide range of elements, complemented by Resonance Ionization Mass Spectrometry for ultra-sensitive measurements of select isotopic systems. Together, these techniques span the periodic table, enabling comprehensive isotopic characterization of individual stardust grains.
+Modern presolar grain analysis demands high precision at the single-grain scale. I use nano-scaled secondary ion mass spectrometry (NanoSIMS) for high-spatial-resolution isotope analysis across a wide range of elements, complemented by resonance ionization mass spectrometry (RIMS) for ultra-sensitive measurements of select isotopic systems. Together, these techniques span the periodic table, enabling comprehensive isotopic characterization of individual stardust grains.
