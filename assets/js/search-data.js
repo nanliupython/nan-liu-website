@@ -681,7 +681,7 @@ ninja.data = [{
               window.location.href = "/projects/03_machine_learning/";
             },},{id: "projects-microanalytical-techniques",
           title: 'Microanalytical Techniques',
-          description: "High-precision, single-grain isotope analysis combining NanoSIMS and resonance ionization mass spectrometry across the periodic table.",
+          description: "High-precision, single-grain isotope analysis combining NanoSIMS and RIMS across the periodic table.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/04_microanalytical_techniques/";
             },},{id: "teachings-data-science-fundamentals",
