@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Senior Research Scientist at Boston University. Cosmochemist specialized in nuclear astrophysics.
 footer_text: >
   © Nan Liu. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: presolar grains, cosmochemistry, stardust, NanoSIMS, stellar nucleosynthesis, Galactic chemical evolution, supernova, Boston University, nuclear astrophysics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
