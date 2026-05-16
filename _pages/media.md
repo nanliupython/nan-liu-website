@@ -126,7 +126,6 @@ nav_order: 3
   </div>
   <div class="media-entry-text">
     <p><strong>ScienceDaily</strong>, January 2018 — <a href="https://www.sciencedaily.com/releases/2018/01/180118142629.htm"><em>Meteoritic stardust unlocks timing of supernova dust formation</em></a> — Republished from Carnegie Science; coverage of <a href="https://doi.org/10.1126/sciadv.aao1054"><em>Science Advances</em> paper</a> on late formation of silicon carbide in Type II supernovae.</p>
-    <p><strong>Space.com</strong> — <a href="https://www.space.com/grain-star-dust-meteorite-supernova"><em>Grain of stardust in meteorite reveals supernova history</em></a> — Coverage of the same <a href="https://doi.org/10.1126/sciadv.aao1054"><em>Science Advances</em> paper</a>.</p>
   </div>
 </div>
 
