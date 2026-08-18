@@ -76,6 +76,16 @@ nav_order: 3
 
 <div class="media-entry">
   <div class="media-entry-img">
+    <img src="{{ '/assets/img/media/brink_stardust.jpg' | relative_url }}" alt="Scanning electron microscope image of a presolar silicon carbide grain from the Murchison meteorite">
+    <div class="media-entry-credit">Image: Nan Liu</div>
+  </div>
+  <div class="media-entry-text">
+    <p><strong>BU <em>The Brink</em></strong>, August 2026 — <a href="https://www.bu.edu/articles/2026/tiny-flecks-of-ancient-stardust-offer-clues-to-solar-system-origins/"><em>Tiny flecks of ancient stardust offer clues to solar system origins</em></a> — Feature on presolar grains and my research at BU's Institute for Astrophysical Research.</p>
+  </div>
+</div>
+
+<div class="media-entry">
+  <div class="media-entry-img">
     <img src="{{ '/assets/img/media/quanta_grains.jpg' | relative_url }}" alt="Eight colored SEM images of presolar grains from Quanta Magazine">
     <div class="media-entry-credit">Image: Quanta Magazine / Nan Liu</div>
   </div>
