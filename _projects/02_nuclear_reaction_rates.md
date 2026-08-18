@@ -11,4 +11,4 @@ category: research
 
 Stellar models depend on a network of nuclear reaction rates — neutron-capture cross-sections, β-decay lifetimes, fusion rates — that are measured at terrestrial accelerators. Many of these measurements remain uncertain at the low energies relevant to stellar interiors.
 
-Presolar grains offer an inverse path: given trusted stellar models, the isotope ratios I measure in single grains place observational constraints on reaction rates that are difficult to access in the laboratory. This creates a feedback loop between accelerator-based nuclear physics and the cosmic record preserved in stardust.
+Presolar grains offer an inverse path: given calibrated stellar models and evaluated modeling uncertainties, the isotope ratios I measure in single grains place observational constraints on reaction rates that are difficult to access in the laboratory. This creates a feedback loop between accelerator-based nuclear physics and the cosmic record preserved in stardust.
