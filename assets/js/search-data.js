@@ -659,7 +659,7 @@ ninja.data = [{
           title: 'Invited talk at Astrophysics with Radioactive Isotopes 2026, Traverse City, MI: Radioactive Isotopes...',
           description: "",
           section: "News",},{id: "news-featured-in-boston-university-today-tiny-flecks-of-ancient-stardust-offer-clues-to-solar-system-origins",
-          title: 'Featured in Boston University Today — “Tiny Flecks of Ancient Stardust Offer Clues...',
+          title: 'Featured in Boston University Today: Tiny Flecks of Ancient Stardust Offer Clues to...',
           description: "",
           section: "News",},{id: "news-invited-talk-upcoming-at-nuclear-physics-in-astrophysics-xii-cluj-napoca-romania-meteoritic-isotopic-anomalies-as-precision-tests-of-stellar-nucleosynthesis",
           title: 'Invited talk (upcoming) at Nuclear Physics in Astrophysics XII, Cluj-Napoca, Romania: Meteoritic isotopic...',
