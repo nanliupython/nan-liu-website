@@ -76,6 +76,16 @@ nav_order: 3
 
 <div class="media-entry">
   <div class="media-entry-img">
+    <img src="{{ '/assets/img/media/sprocess_mo_path.jpg' | relative_url }}" alt="Diagram of the s-process path through the Zr, Nb, and Mo isotopes, highlighting the niobium-94 branching point">
+    <div class="media-entry-credit">Figure: Nan Liu</div>
+  </div>
+  <div class="media-entry-text">
+    <p><strong><em>Phys.org</em></strong>, August 2026 — <a href="https://phys.org/news/2026-08-neutron-capture-ancient-stardust.html"><em>Neutron capture measurement sheds light on ancient stardust</em></a> — CERN press release on the n_TOF Collaboration's first <sup>94</sup>Nb(n,&gamma;) measurement, which reconciles AGB models with the <sup>94</sup>Mo excess in presolar SiC grains.</p>
+  </div>
+</div>
+
+<div class="media-entry">
+  <div class="media-entry-img">
     <img src="{{ '/assets/img/media/brink_stardust.jpg' | relative_url }}" alt="Scanning electron microscope image of a presolar silicon carbide grain from the Murchison meteorite">
     <div class="media-entry-credit">Image: Nan Liu</div>
   </div>
