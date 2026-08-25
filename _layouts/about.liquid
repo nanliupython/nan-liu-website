@@ -63,4 +63,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <a href="https://www.researchgate.net/profile/Nan-Liu-8" title="ResearchGate" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate"></i></a>
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% social_links %}
+          <a href="https://www.researchgate.net/profile/Nan-Liu-8" title="ResearchGate" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate"></i></a>
+        </div>
+
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
