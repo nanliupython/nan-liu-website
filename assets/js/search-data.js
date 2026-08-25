@@ -729,13 +729,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-4456-4065", "_blank");
         },
       },{
-        id: 'social-ResearchGate',
-        title: 'Researchgate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Nan-Liu-8", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
