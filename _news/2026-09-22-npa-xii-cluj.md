@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at *Nuclear Physics in Astrophysics XII*, Cluj-Napoca, Romania: *Meteoritic isotopic anomalies as precision tests of stellar nucleosynthesis*. Slides are available [*online* ] (https://indico.eli-np.ro/event/262/timetable/#20260907).
+Invited talk at *Nuclear Physics in Astrophysics XII*, Cluj-Napoca, Romania: *Meteoritic isotopic anomalies as precision tests of stellar nucleosynthesis*. Slides are available [*online*](https://indico.eli-np.ro/event/262/timetable/#20260907).
