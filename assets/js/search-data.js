@@ -664,7 +664,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-in-physical-review-letters-the-n-tof-collaboration-s-first-measurement-of-the-94nb-n-γ-cross-section-brings-agb-models-into-agreement-with-the-94mo-excess-in-presolar-sic-grains-resolving-a-two-decade-old-discrepancy",
           title: 'New paper in Physical Review Letters — the n_TOF Collaboration’s first measurement of...',
           description: "",
-          section: "News",},{id: "news-invited-talk-at-nuclear-physics-in-astrophysics-xii-cluj-napoca-romania-meteoritic-isotopic-anomalies-as-precision-tests-of-stellar-nucleosynthesis-slides-are-available-online-https-indico-eli-np-ro-event-262-timetable-20260907",
+          section: "News",},{id: "news-invited-talk-at-nuclear-physics-in-astrophysics-xii-cluj-napoca-romania-meteoritic-isotopic-anomalies-as-precision-tests-of-stellar-nucleosynthesis-slides-are-available-online",
           title: 'Invited talk at Nuclear Physics in Astrophysics XII, Cluj-Napoca, Romania: Meteoritic isotopic anomalies...',
           description: "",
           section: "News",},{id: "news-invited-talk-upcoming-at-the-18th-international-symposium-on-origin-and-evolution-of-galaxies-omeg18-riken-japan",
