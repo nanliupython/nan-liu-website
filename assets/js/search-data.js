@@ -667,7 +667,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-talk-at-nuclear-physics-in-astrophysics-xii-cluj-napoca-romania-meteoritic-isotopic-anomalies-as-precision-tests-of-stellar-nucleosynthesis-slides-are-available-online",
           title: 'Invited talk at Nuclear Physics in Astrophysics XII, Cluj-Napoca, Romania: Meteoritic isotopic anomalies...',
           description: "",
-          section: "News",},{id: "news-invited-talk-upcoming-at-the-18th-international-symposium-on-origin-and-evolution-of-galaxies-omeg18-riken-japan",
+          section: "News",},{id: "news-invited-talk-upcoming-at-the-18th-international-symposium-on-origin-and-evolution-of-galaxies-omeg18-riken-japan-meteoritic-isotopic-anomalies-as-precision-tests-of-stellar-nucleosynthesis-slides-are-available-online",
           title: 'Invited talk (upcoming) at the 18th International Symposium on Origin and Evolution of...',
           description: "",
           section: "News",},{id: "projects-nuclear-astrophysics-with-stardust",
